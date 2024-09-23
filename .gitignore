@@ -49,3 +49,5 @@ yarn-debug.log*
 yarn-error.log*
 
 autocorector
+
+src/config/config.js
